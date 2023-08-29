@@ -15,3 +15,7 @@ If you don't trust the EXE, open the "main.py" file in any python IDE and compil
 # Contribution
 
 If you would like to contribute to this project, create a pull request.
+
+# Credits 
+
+Zer0Gr@v!ty, Puls3
