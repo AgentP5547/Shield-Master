@@ -4,6 +4,9 @@
 
 **Shield Master is a tool that detects if a folder contains a virus or not.**
 
+# Release
+Shield Master can be downloaded from the [releases](https://github.com/AgentP5547/Shield-Master/releases/) page.
+
 # Starting Shield Master
 
 You can start it by simply running the EXE file.
