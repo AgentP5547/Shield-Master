@@ -18,4 +18,4 @@ If you would like to contribute to this project, create a pull request.
 
 # Credits 
 
-Zer0Gr@v!ty, Puls3
+[Zer0Gr@v!ty](https://github.com/zer0gra/), [Me](https://github.com/zer0gra/)
